@@ -1,0 +1,13 @@
+{
+    "git_oauth_client_id": "GITHUB_APPLICATION_CLIENT_ID",
+    "git_oauth_client_secret": "GITHUB_APPLICATION_CLIENT_SECRET",
+    "git_oauth_host": "github.com",
+    "git_oauth_port": 443,
+    "git_oauth_path": "/login/oauth/access_token",
+    "git_oauth_method": "POST",
+    "sendgrid_username": "SENDGRID_USERNAME",
+    "sendgrid_key": "SENDGRID_KEY",
+    "aws_access_key": "AWS_ACCESS_KEY",
+    "aws_secret_access_key": "AWS_SECRET_ACCESS_KEY",
+    "blitline_secret": "BLITLINE_SECRET"
+}

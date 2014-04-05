@@ -1,0 +1,13 @@
+{
+  "name"          : "GratziServer",
+  "description"   : "Handles oauth, accounts, and messaging for Gratzi.",
+  "url"           : "http://github.com/auggernaut/gratziserver",
+  "keywords"      : ["gratzi", "oauth"],
+  "author"        : "Augustin Bralley",
+  "contributors"  : [],
+  "dependencies"  : ["express", "sendgrid-web", "crypto", "mime"],
+  "engines"       : { "node": "0.6.x" },
+  "lib"           : ".",
+  "main"          : "index",
+  "version"       : "0.1.0"
+}
